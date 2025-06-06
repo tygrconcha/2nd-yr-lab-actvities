@@ -1,6 +1,6 @@
 # 2nd Year Lab Activities
 
-Hands-on labs completed during my 2nd year in **BS Data Science & Analytics, University of Santo Tomas**.
+Some of my hands-on labs completed during my 2nd year in **BS Data Science & Analytics, University of Santo Tomas**.
 
 ## Project Index
 
