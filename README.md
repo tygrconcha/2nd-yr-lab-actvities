@@ -6,11 +6,11 @@ Some of my hands-on labs completed during my 2nd year in **BS Data Science & Ana
 
 ### 1. EDA
 | Folder | Focus | Description |
-| ------ | ----- | ------------------ |
-| **`data_sampling/`** | Statistical sampling | Built five Titanic-dataset samples (simple-random, systematic, stratified, single- & two-stage cluster) and visualized how each shifts class balance, age spread, and variable correlations. |
-| **`text_analysis/`** | NLP & sentiment | Cleaned  drug-reviews text, generated word clouds & top-n counts per rating tier, and compared sentiment polarity histograms (TextBlob) across bad/meh/good reviews. |
-| **`network_analysis/`** | Graph analytics | Mapped ingredient–cuisine relationships: bar-charted top 20 ingredients/cuisines and built a cuisine network graph revealing regional & historical culinary clusters. |
-| **`geospatial_analysis/`** | GIS & choropleths | Combined PH region GeoJSON with PSA data to map population change (2000–2015), median wages, poverty thresholds & incidence (2018 vs 2021); uncovered Metro Manila migration pull and Luzon–Mindanao wage gaps. |
+| ------ | ----- | ----------- |
+| [**`data_sampling_techniques/`**](./Exploratory%20Data%20Analysis/data_sampling_techniques) | Statistical sampling | Built five Titanic-dataset samples (simple-random, systematic, stratified, single- & two-stage cluster) and visualized how each shifts class balance, age spread, and variable correlations. |
+| [**`exploratory_text_analysis/`**](./Exploratory%20Data%20Analysis/exploratory_text_analysis) | NLP & sentiment | Cleaned drug-reviews text, generated word clouds & top-n counts per rating tier, and compared sentiment polarity histograms (TextBlob) across bad/meh/good reviews. |
+| [**`network_analysis/`**](./Exploratory%20Data%20Analysis/network_analysis) | Graph analytics | Mapped ingredient–cuisine relationships: bar-charted top 20 ingredients/cuisines and built a cuisine network graph revealing regional & historical culinary clusters. |
+| [**`geospatial_analysis.zip`**](./Exploratory%20Data%20Analysis/geospatial_analysis.zip) | GIS & choropleths | Zipped project combining PH region GeoJSON with PSA data to map population change (2000–2015), wages, poverty thresholds & incidence (2018–2021). |
 
 > **Note:** Large data files are zipped or stored via Git LFS to keep the repo lightweight.
 
