@@ -11,7 +11,7 @@ Hands-on labs completed during my 2nd year in **BS Data Science & Analytics, Uni
 | **`network_analysis/`** | Graph analytics | Mapped ingredient–cuisine relationships: bar-charted top 20 ingredients/cuisines and built a cuisine network graph revealing regional & historical culinary clusters. |
 | **`geospatial_analysis/`** | GIS & choropleths | Combined PH region GeoJSON with PSA data to map population change (2000–2015), median wages, poverty thresholds & incidence (2018 vs 2021); uncovered Metro Manila migration pull and Luzon–Mindanao wage gaps. |
 
-> **Note:** Large data files (e.g., PSA extracts, GeoJSON) are zipped or stored via Git LFS to keep the repo lightweight.
+> **Note:** Large data files are zipped or stored via Git LFS to keep the repo lightweight.
 
 ## Purpose
 To document and showcase my learning progress and hands-on skills for internship applications.
