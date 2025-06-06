@@ -4,7 +4,8 @@ Some of my hands-on labs completed during my 2nd year in **BS Data Science & Ana
 
 ## Project Index
 
-| Folder | Focus | One-Line Highlight |
+### 1. EDA
+| Folder | Focus | Description |
 | ------ | ----- | ------------------ |
 | **`data_sampling/`** | Statistical sampling | Built five Titanic-dataset samples (simple-random, systematic, stratified, single- & two-stage cluster) and visualized how each shifts class balance, age spread, and variable correlations. |
 | **`text_analysis/`** | NLP & sentiment | Cleaned  drug-reviews text, generated word clouds & top-n counts per rating tier, and compared sentiment polarity histograms (TextBlob) across bad/meh/good reviews. |
